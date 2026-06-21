@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Git Project</title>
+</head>
+<body>
+<h1>Welcome to My Git Project</h1>
+<p>This is a dummy project created for Git Assignment.</p>
+</body>
+</html>
